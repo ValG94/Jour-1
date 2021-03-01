@@ -12,7 +12,7 @@ B - Apprendre à utiliser Visual Studio Code et Github
 1) Visual Studio pour le local
 2) Github pour envoyer son code sur un serveur distant
 
-C - Ordre des Git
+C - Ordre des Git dans Visual Studio
 1) Git init permet d'initialiser un dossier
 2) Git add + nom du fichier.txt
 3) Git commit -m "mes commentaires"
@@ -26,3 +26,12 @@ Commande pour remonter dans les dossiers : cd..
 Pour configurer son Git lorsque c'est la 1ere fois qu'on se connecte, utiliser la commande :
 git config --global user.email "valerygarrec@gmail.com" suivi de 
 git config --global user.name "Valéry" 
+
+D - Github
+1) Créer le nouveau "Repository" et le nommer
+2) Copier dans Visual Studio Code le chemin d'accès au dossier hébergé dans Github comme dans l'exemple ci-dessous :
+git remote add origin https://github.com/ValG94/Jour-1.git
+git branch -M main
+git push -u origin main
+
+3) Faire le push 
