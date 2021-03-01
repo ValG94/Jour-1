@@ -1,0 +1,28 @@
+A - Les compétences nécessaires à valider pour l'obtention du diplôme
+1) Maquetter son application
+2) Créer une interface utilisateurs statique
+3) Créer une interface utilisateurs dynamique
+4) CMS/Front
+5) Création d'une base de données
+6) Développer les composants d'accès aux données
+7) Développer liens entre Front/données
+8) CMS/Back
+
+B - Apprendre à utiliser Visual Studio Code et Github
+1) Visual Studio pour le local
+2) Github pour envoyer son code sur un serveur distant
+
+C - Ordre des Git
+1) Git init permet d'initialiser un dossier
+2) Git add + nom du fichier.txt
+3) Git commit -m "mes commentaires"
+4) Git push pour envoyer son code sur Github
+
+Lorsque l'on travaille à plusieurs, penser à faire des git pull pour rafraîchir les codes des autres personnes
+Utiliser Git clone + adresse du fichier à cloner lorsque l'on souhaite travailler sur un fichier commun. 
+Lorsque c'est le cas, penser à demander les autorisations au propriétaire pour pouvoir push son code
+
+Commande pour remonter dans les dossiers : cd..
+Pour configurer son Git lorsque c'est la 1ere fois qu'on se connecte, utiliser la commande :
+git config --global user.email "valerygarrec@gmail.com" suivi de 
+git config --global user.name "Valéry" 
