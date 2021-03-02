@@ -18,7 +18,7 @@ C - Ordre des Git dans Visual Studio
 3) Git commit -m "mes commentaires"
 4) Git push pour envoyer son code sur Github
 
-Lorsque l'on travaille à plusieurs, penser à faire des git pull pour rafraîchir les codes des autres personnes
+Lorsque l'on travaille à plusieurs, penser à faire des git pull pour mettre à jour son Repository local par rapport au distant
 Utiliser Git clone + adresse du fichier à cloner lorsque l'on souhaite travailler sur un fichier commun. 
 Lorsque c'est le cas, penser à demander les autorisations au propriétaire pour pouvoir push son code
 
