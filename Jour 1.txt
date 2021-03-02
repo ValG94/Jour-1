@@ -22,6 +22,9 @@ Lorsque l'on travaille à plusieurs, penser à faire des git pull pour rafraîch
 Utiliser Git clone + adresse du fichier à cloner lorsque l'on souhaite travailler sur un fichier commun. 
 Lorsque c'est le cas, penser à demander les autorisations au propriétaire pour pouvoir push son code
 
+Pour afficher l'historique de son Repository, il faut faire un git log
+Pour récupérer un Repository distant sur mon poste de travail il faut faire un git clone
+
 Commande pour remonter dans les dossiers : cd..
 Pour configurer son Git lorsque c'est la 1ere fois qu'on se connecte, utiliser la commande :
 git config --global user.email "valerygarrec@gmail.com" suivi de 
