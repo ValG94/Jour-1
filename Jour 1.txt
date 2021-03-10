@@ -38,3 +38,19 @@ git branch -M main
 git push -u origin main
 
 3) Faire le push 
+
+Semaine 2
+
+J'ai appris à travailler sur IntelliJ
+Créer des dossiers dans ce logiciel et push ces dossiers dans Github
+J'ai appris à déclarer des variables Int, String, Float, Double en Java
+J'ai appris à construire une fonction en pensant à bien déclarer son type (Int, String, Boolean, Float, etc) et ses arguments
+Construction d'un tableau double (lignes/colonnes [] [])
+Utilisation des boucles For, While
+Utilisation de condition dans mon code
+Lecture de mes erreurs et corrections
+Commencer à s'approprier les termes techniques
+Début de la notion de maquettage lorsque je démarre un brief
+Comment utiliser la recherche sur Google
+Comment utiliser la documentation Java
+
